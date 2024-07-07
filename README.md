@@ -18,7 +18,10 @@
 
 ###
 
-
+<div align="center">
+  <h3>About Me</h3>
+  <p>I'm a passionate React developer and a student at IBIK. I love building web applications and learning new technologies. My goal is to become a proficient full-stack developer and contribute to open source projects.</p>
+</div>
 ###
 
 <div align="center">
@@ -27,8 +30,4 @@
 
 ###
 
-<div align="center">
-  <h3>About Me</h3>
-  <p>I'm a passionate React developer and a student at IBIK. I love building web applications and learning new technologies. My goal is to become a proficient full-stack developer and contribute to open source projects.</p>
-  <p>Lets Contact Me</p>
-</div>
+
