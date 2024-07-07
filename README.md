@@ -1,6 +1,6 @@
-<div align="center">
+<h2 align="center">
   DYAS TRI APRILIANSYAH
-</div>
+</h2 >
 
 ###
 
@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <h2>About Me</h2>
+  <h3>About Me</h3>
   <p>I'm a passionate React developer and a student at IBIK. I love building web applications and learning new technologies. My goal is to become a proficient full-stack developer and contribute to open source projects.</p>
   <p>Lets Contact Me</p>
 </div>
