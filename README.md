@@ -22,7 +22,6 @@
   <h3>About Me</h3>
   <p>I'm a passionate React developer and a student at IBIK. I love building web applications and learning new technologies. My goal is to become a proficient full-stack developer and contribute to open source projects.</p>
 </div>
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dyastriapr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
